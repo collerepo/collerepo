@@ -13,6 +13,7 @@ industry is going to thank you for putting some time into Excel VBA.
 
 ##########################################################################################
 -> ***** Circa May/June 2022
+
 -Hi, I’m Rodrigo Coll, Global IT Support for a university (UNIR/MIU), currently doing a PGP Data Science Bootcamp with Purdue University 
 
 -  I’m interested in Data Science/Analytics, Big Data, back-end development, Linux + Windows system administration, Python, R, MySQL, CPython, VBA, DAX, MariaDB, REst      APIs, C#, BASH, PowerShell, PHP, PERL, Curl 
