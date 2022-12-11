@@ -1,7 +1,7 @@
 ##3 Updated -> 12/11/2022 @ 12:45AM EST
 
 - Hello and greetings to the entire Github and Dev community as a whole. You may have see that my fist (last) post had a bit about me, so here's
-an update: Ive received my PGP in Data Science + Data/Business Analytics Nov. 30, 2022 (yes, i know i took 1000 years, had to leave my job to not lose any scaled skills built up from project practicing).
+an update: Ive received my PGP in Data Science + Data/Business Analytics Nov. 30, 2022 , had to leave my job to not lose any scaled skills built up from project practicing).
 
 - I am currently working on mainly my Python skills, R (which I find the easiest as well as SQL), and getting to know as much as I can from A.I and big data frameworks.
 - Other languages that I am focusing on and practicing are R, SQL, and VBA with Excel. Yes, I know what all the critics say, but trust me that the 
