@@ -7,8 +7,6 @@ an update: Ive received my PGP in Data Science + Data/Business Analytics Nov. 30
 - Other languages that I am focusing on and practicing are R, SQL, and VBA with Excel. Yes, I know what all the critics say, but trust me that the 
 industry is going to thank you for putting some time into Excel VBA.
 
-- My Goal stays the same, applying to all Entry-level Data Scientist positions. I did land a few data+Business Analytics offers with most them being remote, and yes........ sadly I turned them down. I'm fully dedicating my entire dev focus specifically on Machine Learning, Ai optimization, and framework innovations with Data Science.
-
 - I Current work as a Price/Cost Analyst for a Government Contractor. Yes, I am running models on the databases available to me but need legal green-lights before posting those projects.
 
 ##########################################################################################
