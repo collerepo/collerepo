@@ -1,20 +1,19 @@
 ##3 Updated -> 12/11/2022 @ 12:45AM EST
 
 - Hello and greetings to the entire Github and Dev community as a whole. You may have see that my fist (last) post had a bit about me, so here's
-an update: Ive received my PGP in Data Science + Data/Business Analytics Nov. 30, 2022 , had to leave my job to not lose any scaled skills built up from project practicing).
+an update: Ive received my PGP in Data Science + Data/Business Analytics Nov. 30, 2022.
 
 - I am currently working on mainly my Python skills, R (which I find the easiest as well as SQL), and getting to know as much as I can from A.I and big data frameworks.
-- Other languages that I am focusing on and practicing are R, SQL, and VBA with Excel. Yes, I know what all the critics say, but trust me that the 
-industry is going to thank you for putting some time into Excel VBA.
 
-- I Current work as a Price/Cost Analyst for a Government Contractor. Yes, I am running models on the databases available to me but need legal green-lights before posting those projects.
+- I Current work as a Price/Cost Analyst for a Government Contractor. 
 
+- My goal is to become a Full-Stack Data Scientist or a Full-Stack A.I. Engineer.
 ##########################################################################################
 -> ***** Circa May/June 2022
 
 -Hi, I’m Rodrigo Coll, Global IT Support for a university (UNIR/MIU), currently doing a PGP Data Science Bootcamp with Purdue University 
 
--  I’m interested in Data Science/Analytics, Big Data, back-end development, Linux + Windows system administration, Python, R, MySQL, CPython, VBA, DAX, MariaDB, REst      APIs, C#, BASH, PowerShell, PHP, PERL, Curl 
+-  I’m interested in Data Science/Analytics, Big Data, back-end development, Linux + Windows system administration, Python, R, MySQL, CPython, VBA, DAX, MariaDB, REst APIs, C#, BASH, PowerShell, PHP, PERL, Curl 
 
 - I’m currently learning Machine Learning, Deep Learning using neural networks, Big Data visualization, Back-End, Linux/Windows SysAdmin,Python, R, MySQL, CPython, VBA, DAX, MariaDB, C, VIM, BASH, PowerShell, PHP, PERL, Curl
 
