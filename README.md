@@ -1,4 +1,4 @@
-M.L./A.I. Engineering by day, Security Researcher/Malware Analyst by night.
+M.L./A.I. Engineering by day, Security Research & Malware Analysis by night.
 
 Web3 Developer, strategic trading & process automation enthusiast, inquisitively curious about information/hardware/software/network/web2/web3/mobile security. 
 
