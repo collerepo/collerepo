@@ -1,8 +1,22 @@
 M.L./A.I. Engineering by day, Security Research/Malware Analysis by night.
 
-Web2 & Web3 Development 
-Strategic Trading & Process Automation enthusiast 
-Inquisitively curious about database/cloud/hardware/software/network/web2/web3/mobile security. 
+/////////////////////////////////////////////////////////Interests/////////////////////////////////////////////////////////////////////
+
+                                                                                                                                   
+
+|| -> Web2 & Web3 Development                                                                                                        
+
+                                                                                                                                  
+
+|| -> Strategic Trading & Process Automation enthusiast                                                                              
+
+
+
+|| -> Inquisitively curious about Web, Network, Hardware, Software, Cloud, Database, IoT, & Mobile Security                             
+
+                                                                                                                                   
+|| -> Deep Neural Network Architecturing & Engineering                                                                      
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 - 📫 How to reach me: rcoll369@outlook.com
 
