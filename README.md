@@ -1,6 +1,8 @@
-M.L./A.I. Engineering by day, Security Research & Malware Analysis by night.
+M.L./A.I. Engineering by day, Security Research/Malware Analysis by night.
 
-Web3 Developer, strategic trading & process automation enthusiast, inquisitively curious about information/hardware/software/network/web2/web3/mobile security. 
+Web2 & Web3 Development 
+Strategic Trading & Process Automation enthusiast 
+Inquisitively curious about database/cloud/hardware/software/network/web2/web3/mobile security. 
 
 - 📫 How to reach me: rcoll369@outlook.com
 
