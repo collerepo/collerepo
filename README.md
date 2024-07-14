@@ -1,8 +1,6 @@
-Data Scientist/A.I. Engineer/ AWS Cloud Architect
+M.L./A.I. Engineering by day, Security Researcher/Malware Analyst by night.
 
-L2 Incident Management/Triage Engineering @ Fannie Mae
-
-Official Algorand Web3 Developer L1/L2, strategic trading automation
+Web3 Developer, strategic trading & process automation enthusiast, inquisitively curious about information/hardware/software/network/web2/web3/mobile security. 
 
 - 📫 How to reach me: rcoll369@outlook.com
 
