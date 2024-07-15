@@ -51,36 +51,53 @@ jobs:
           - language: swift
             build-mode: xcode
         # If you wish to specify custom queries, you can do so here or in a config file.
-        steps:
-        - name: Checkout repository
-        uses: actions/checkout@v4
+        steps: 
+          - name: Checkout repository
+            uses: actions/checkout@v4
          
-        -name: Initialize CodeQL
-      uses: github/codeql-action/init@v3
-      with:
+          - name: Initialize CodeQL
+            uses: github/codeql-action/init@v3
+            with:
             languages: ${{ matrix.language }}
             build-mode: ${{ matrix.build-mode }}
       
-      -name: Perform CodeQL Analysis
-    uses: github/codeql-action/analyze@v3
-    with:
-          category: "/language:${{matrix.language}}"
+          - name: Perform CodeQL Analysis
+            uses: github/codeql-action/analyze@v3
+            with:
+            category: "/language:${{matrix.language}}"
 
-    -name: Upload CodeQL Results
-  uses: github/codeql-action/upload@v3
-    # ℹ️ Command-line programs to run using the OS shell.
-    # 📚 See https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
-  -if: matrix.build-mode == 'manual'
-      shell:bash
-      run:|
-        echo 'If you are using a "manual" build mode for one or more of the' \
-          'languages you are analyzing, replace this with the commands to build' \
-          'your code, for example:'
-        echo '  make bootstrap'
-        echo '  make release'
-        exit 1
+          - name: Upload CodeQL Results
 
-  -name: Perform CodeQL Analysis
-uses: github/codeql-action/analyze@v3
-with: 
-category:"/language:${{matrix.language}}"
+            on:
+            workflow_dispatch:
+            inputs:
+            build-mode:
+            description: 'Build mode'
+            required: true
+            default: 'manual'
+
+            jobs:
+            upload-results:
+            runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: "/language:${{ matrix.language }}"
+      - name: Upload CodeQL results
+        if: inputs.build-mode == 'manual'
+        uses: github/codeql-action/upload@v3
+      - name: Run script
+        shell: bash
+        run: |
+          echo 'If you are using a "manual" build mode for one or more of the languages you are analyzing, replace this with the commands to build your code, for example:'
+          echo '  make bootstrap'
+          echo '  make release'
+          exit 1
+
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+            category: "/language:${{ matrix.language }}"
