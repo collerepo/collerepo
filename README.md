@@ -1,4 +1,4 @@
-
+M.L./A.I. Engineering by day, Security Research/Malware Analysis by night.
 /////////////////////////////////////////////////////////Interests/////////////////////////////////////////////////////////////////////
 
                                                                                                                                    
