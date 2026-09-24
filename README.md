@@ -14,7 +14,11 @@
 || -> Inquisitively curious about Web, Network, Hardware, Software, Cloud, Database, IoT, & Mobile Security                             
 
                                                                                                                                    
-|| -> Deep Neural Network Architecturing & Engineering                                                                      
+|| -> Deep Neural Network Architecturing & Engineering    
+
+
+How to reach me: 
+1) Main repository -> @srvrX0r
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <!---
 collerepo/collerepo is a special  repository because its `README.md` (this file) appears on your GitHub profile.
